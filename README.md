@@ -18,5 +18,4 @@ os_matrix: ["Kali Linux (GNOME)", "Ubuntu Server", "macOS Tahoe", "Windows 11"]
 shell: "zsh"
 editor: "VS Code / nano"
 container_policy: "Native systemd services > Docker"
-audio_tuning: "Drop G# (4-string & 5-string)"
 status: "Debugging hardware at 2 AM"
